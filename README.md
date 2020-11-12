@@ -6,6 +6,11 @@
 
 - 📫 How to reach me **jaykhalpati@gmail.com**
 
+- 🌱 I’m currently learning **Microsoft Azure**
+
+- ⚡ Fun fact: **I collect movie tickets(Started in 2016)**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jaykumar-halpati" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jaykumar-halpati" height="30" width="40" /></a>
