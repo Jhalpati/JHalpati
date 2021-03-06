@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **jaykhalpati@gmail.com**
 
-- 🌱 I’m currently learning **Microsoft Azure**
+- 🌱 I’m currently learning **React Native**
 
 - ⚡ Fun fact: **I collect movie tickets(Started in 2016)**
 
